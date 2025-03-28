@@ -1,13 +1,12 @@
 <h1>Hi, I'm Jake!</h1>
 
-<h1>WORK IN PROGRESS</h1>
+<h1>Computer Science degree projects</h1>
+
+- <b>Database Management Projects</b>
+  - [Computer Science 204: Database Programming final project](https://github.com/Jaketona17/)
 
 <h2>Networking and Programming Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/Jaketona17/)
-- <b>PowerShell</b>
-  - [Active Directory Bulk User Creation](https://github.com/Jaketona17/)
 - <b>Python</b>
   - [My First Python Code: "Do you want to go to Walt Disney World?"](https://github.com/Jaketona17/First-Python-Code-Day-3-Attempt)
 
