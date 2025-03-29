@@ -3,7 +3,7 @@
 <h1>Computer Science degree projects</h1>
 
 - <b>Database Management Projects</b>
-  - [Computer Science 204: Database Programming final project](https://github.com/Jaketona17/)
+  - [Computer Science 204: Database Programming final project](https://github.com/Jaketona17/CS204_Final_Project))
 
 <h2>Networking and Programming Projects:</h2>
 
