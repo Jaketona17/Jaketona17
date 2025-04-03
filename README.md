@@ -5,6 +5,9 @@
 - <b>Database Management Projects</b>
   - [Computer Science 204: Database Programming final project](https://github.com/Jaketona17/CS204_Final_Project) (My first time learning MySQL)
 
+- <b>Java</b>
+  - [Introduction to Java final project](https://github.com/Jaketona17/First-Python-Code-Day-3-Attempt) (My first time learning Java)
+
 <h2>Networking and Programming Projects:</h2>
 
 - <b>Python</b>
