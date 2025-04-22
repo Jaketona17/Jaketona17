@@ -13,6 +13,7 @@
 
 - <b>Python</b>
   - [My First Python Code: "Do you want to go to Walt Disney World?"](https://github.com/Jaketona17/First-Python-Code-Day-3-Attempt)
+  - [Introduction to Python final project](https://github.com/Jaketona17/IntrotoPythonTouchstone)
 
 <h2>Connect with me:</h2>
 
